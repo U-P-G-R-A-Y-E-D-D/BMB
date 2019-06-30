@@ -1,0 +1,6 @@
+﻿  BMPsample.cpp
+  BMP.cpp
+c:\users\honza\desktop\bmp - kopie - kopie - kopie\bmp\bmp.cpp(947): warning C4101: 'ZeroWORD': unreferenced local variable
+  Generating Code...
+  BMP.vcxproj -> C:\Users\HONZA\Desktop\BMP - kopie - kopie - kopie\BMP\Debug\BMP.exe
+  BMP.vcxproj -> C:\Users\HONZA\Desktop\BMP - kopie - kopie - kopie\BMP\Debug\BMP.pdb (Full PDB)
